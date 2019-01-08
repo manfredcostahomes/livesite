@@ -1,0 +1,5 @@
+baseurl = "/"
+title = "Manfred Costa Blanca Homes"
+
+[taxonomies]
+  category = "categories"
